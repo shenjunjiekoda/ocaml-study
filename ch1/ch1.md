@@ -1,4 +1,4 @@
-# Installing
+# Chapter1. Getting started.
 
 ## Opam and OCaml
 
@@ -70,6 +70,8 @@ utop
 ```
 
 It supports line editing, history, real-time and context sensitive completion, colors, and more.
+
+Or, you can try OCaml REPL online at https://try.ocamlpro.com/.
 
 ## Dune Build System
 
